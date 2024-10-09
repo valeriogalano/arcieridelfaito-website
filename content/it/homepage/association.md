@@ -1,5 +1,5 @@
 ---
-title: "L'associazione Arcieri del Faito"
+title: "L'associazione"
 weight: 1
 ---
 
