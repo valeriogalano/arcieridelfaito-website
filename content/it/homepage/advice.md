@@ -1,12 +1,12 @@
 ---
-title: "Ti consigliamo"
+title: "I nostri consigli"
 weight: 60
-header_menu_title: "Ti consigliamo"
-navigation_menu_title: "Ti consigliamo"
+header_menu_title: "Consigli"
+navigation_menu_title: "Consigli"
 header_menu: false
 detailed_page_homepage_content: true
 ---
-* Vestiti a strati
-* Porta sempre una maglia in più se dovessi aver freddo
-* Portati dell'acqua da bere
-* 
+Nella faggeta la temperatura può essere più bassa che nelle zone circostanti e il primo bar è a circa 10 minuti di automobile, quindi noi consigliamo sempre di: 
+* Vestirsi con abigliamento caldo e comodo
+* Portare sempre una maglia in più
+* Portare dell'acqua da bere e uno spuntino
