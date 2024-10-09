@@ -76,6 +76,12 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "phone"
+        value = "WhatsApp"
+        url = "ttps://wa.me/393471888961"
+        icon = "fa fa-whatsapp"
+
+    [[params.contacts]]
+        label = "phone"
         value = "+39 347 1888961"
         url = "tel:+39 347 1888961"
         icon = "fa fa-phone"
