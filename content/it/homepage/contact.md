@@ -6,4 +6,4 @@ header_menu: true
 
 {{<contact_list>}}
 
-Let us get in touch!
+Per prenotare un incontro scrivici su WhatsApp con almeno un giorno d'anticipo!
