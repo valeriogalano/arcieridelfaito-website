@@ -12,5 +12,5 @@ Ti basterà seguire i cartelli con il logo dell'associazione, ma in ogni caso, e
 * Sali per la strada che costeggia l'Hotel Sant'Angelo
 * Continua sempre dritto
 * Al bivio nei pressi del capanno rosso, mantieni la destra
-* Prosegui dritto finché non vedi lo striscione degli Arceri del Faito
+* Prosegui dritto finché non vedi lo striscione degli Arcieri del Faito
 
