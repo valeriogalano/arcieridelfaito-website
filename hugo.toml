@@ -106,7 +106,7 @@ enableEmoji = true
     languageName = "Italian"
     contentDir = "content/it"
 
-  [languages.en]
-    weight = 10
-    languageName = "English"
-    contentDir = "content/en"
+#  [languages.en]
+#    weight = 10
+#    languageName = "English"
+#    contentDir = "content/en"
