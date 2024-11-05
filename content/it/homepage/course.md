@@ -3,7 +3,7 @@ title: "Iscriviti ai nostri corsi"
 header_menu_title: "I corsi"
 navigation_menu_title: "I corsi"
 weight: 20
-header_menu: true
+header_menu: false
 ---
 
 Partecipa al nostro **corso di tiro con l'arco istintivo** e scopri l'emozione di migliorare le tue abilità a ogni

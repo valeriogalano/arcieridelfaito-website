@@ -1,7 +1,7 @@
 ---
 title: "Prova a scoccare"
 weight: 30
-header_menu: true
+header_menu: false
 ---
 
 Hai mai desiderato mettere alla prova la tua precisione e concentrazione? Scopri l'arte del tiro con l'arco istintivo! È

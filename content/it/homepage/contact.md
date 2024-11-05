@@ -1,7 +1,7 @@
 ---
 title: "Contatti"
 weight: 50
-header_menu: true
+header_menu: false
 ---
 
 {{<contact_list>}}

@@ -3,7 +3,7 @@ title: "Come trovarci"
 header_menu_title: "Come trovarci"
 navigation_menu_title: "Come trovarci"
 weight: 40
-header_menu: true
+header_menu: false
 ---
 Nella faggeta in cui è situato il campo di allenamento degli Arcieri del Faito non è coperta da reti telefoniche cellulari, ma non temere: raggiungerla è semplicissimo.
 
