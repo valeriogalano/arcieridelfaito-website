@@ -14,3 +14,5 @@ Ti basterà seguire i cartelli con il logo dell'associazione, ma in ogni caso, e
 * Al bivio nei pressi del capanno rosso, mantieni la destra
 * Prosegui dritto finché non vedi lo striscione degli Arcieri del Faito
 
+Oppure, puoi seguire la strada tramite Google Maps
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.7447471732107!2d14.49157227595899!3d40.657556740946895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b9733e8515d49%3A0x6480973101c94be1!2sArcieri%20del%20Faito%20-%20Area%20tiro%20con%20l&#39;arco!5e0!3m2!1sit!2sit!4v1732785091134!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
