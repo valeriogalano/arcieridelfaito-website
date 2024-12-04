@@ -8,4 +8,4 @@ Gli Arcieri del Faito sono disponibili a partecipare a:
 * Sagre
 * Gare
 
-[Contattaci](/#contatti) per invitarci o organizzare collaborazioni.  
+[Contattaci](#contatti) per invitarci o organizzare collaborazioni.  

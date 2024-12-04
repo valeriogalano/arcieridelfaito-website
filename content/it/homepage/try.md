@@ -13,4 +13,4 @@ Unisciti a noi per scoprire di più sul tiro con l'arco istintivo. Sentirai la t
 freccia e l'istantanea soddisfazione nel vedere il tuo obiettivo centrato. È un'attività appagante che ti porterà a
 spingere i tuoi limiti, non solo fisici ma anche mentali. Provalo e scopri una nuova passione!
 
-[Contattaci](/#contatti) per prenotare la tua prova di tiro con l'arco con un'istruttore professionale.  
+[Contattaci](#contatti) per prenotare la tua prova di tiro con l'arco con un'istruttore professionale.  
