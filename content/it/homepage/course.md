@@ -11,4 +11,4 @@ lezione! Il corso è composto da **10 lezioni** appositamente studiate per aiuta
 una **lezione bonus** dove avrai l'opportunità unica di partecipare a una gara ufficiale. Non perdere l'occasione di
 vivere questa straordinaria avventura!
 
-[Contattaci](#contatti) per iscriverti al nostro corso.  
+[Contattaci](#contatti) per iscriverti al nostro corso.
