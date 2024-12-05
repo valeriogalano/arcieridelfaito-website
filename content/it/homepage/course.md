@@ -2,7 +2,7 @@
 title: "Iscriviti ai nostri corsi"
 header_menu_title: "I corsi"
 navigation_menu_title: "I corsi"
-weight: 20
+weight: 30
 header_menu: false
 ---
 
