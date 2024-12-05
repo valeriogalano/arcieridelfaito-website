@@ -16,4 +16,4 @@ Ti ricordiamo che nella faggeta siamo a circa 1200 metri di altezza, immersi in 
 * Rispettare la natura e non lasciare rifiuti in giro.
 * Informarsi sulle condizioni meteorologiche prima di partire. 
 
-Seguendo questi consigli, potrete godervi la vostra avventura nella natura in completa serenità.
+Seguendo questi consigli, potrai goderti la tua avventura nella natura in completa serenità.
