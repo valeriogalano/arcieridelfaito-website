@@ -79,6 +79,11 @@ enableEmoji = true
         value = "WhatsApp"
         url = "https://wa.me/+393471888961"
         icon = "fa fa-whatsapp"
+    [[params.contacts]]
+        label = "phone"
+        value = "Telegram"
+        url = "https://t.me/LeleCuo"
+        icon = "fa fa-telegram"
 
     [[params.contacts]]
         label = "phone"
