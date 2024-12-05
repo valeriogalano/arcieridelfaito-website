@@ -1,5 +1,5 @@
 ---
-title: "Il carattere Zen del tiro con l'arco istintivo"
+title: "Una disciplina Zen"
 weight: 5
 ---
 
