@@ -4,7 +4,6 @@ weight: 80
 header_menu: false
 ---
 
-Per trascorrere qualche ora nella natura, tra divertimento, convivialità e relax, unisciti a noi per un'avventura
-indimenticabile!
+>> L'inspirazione, disse una volta il Maestro, lega e collega, mentre si trattiene il respiro avviene tutto ciò che è giusto, e l'espirazione scioglie e porta a compimento, superando ogni limitazione.
 
-[Contattaci](#contatti) per prenotare.
+Eugen Herrigel - Lo Zen e il tiro con l'arco
