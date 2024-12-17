@@ -16,8 +16,8 @@ freccia e l'istantanea soddisfazione nel vedere il tuo obiettivo centrato. È un
 spingere i tuoi limiti, non solo fisici ma anche mentali. Provalo e scopri una nuova passione!
 
 Partecipa al nostro **corso di tiro con l'arco istintivo** e scopri l'emozione di migliorare le tue abilità a ogni
-lezione! Il corso è composto da **10 lezioni** appositamente studiate per aiutarti a perfezionare la tecnica, oltre a
-una **lezione bonus** dove avrai l'opportunità unica di partecipare a una gara ufficiale. Non perdere l'occasione di
-vivere questa straordinaria avventura!
+lezione! Il corso è composto da **10 lezioni** appositamente studiate per aiutarti a perfezionare la tecnica. Inoltre,
+una volta terminato il tuo percorso di formazione, avrai l'opportunità di partecipare alle nostre ufficiale. Non perdere
+l'occasione di vivere questa straordinaria avventura!
 
 [Contattaci](#contatti) per iscriverti al nostro corso.
