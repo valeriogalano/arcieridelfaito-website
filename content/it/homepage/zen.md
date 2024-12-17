@@ -10,7 +10,7 @@ Praticanti di tiro con l'arco istintivo spesso paragonano la loro disciplina all
 In Giappone, il Kyudo è una forma di tiro con l'arco che incorpora molti principi del buddismo zen. La pratica del Kyudo
 non riguarda solo il centrare il bersaglio, ma anche il perfezionamento della mente e dello spirito. Ogni tiro diventa
 un atto di auto-disciplina e auto-sviluppo. Similmente, nel tiro con l'arco istintivo occidentale, l'obiettivo è
-raggiungere uno stato di flusso in cui il tiratore e l'arco diventano un'unica entità, e il tiro diventa un'estensione
+raggiungere uno stato di flusso in cui l'arciere e l'arco diventano un'unica entità, e il tiro diventa un'estensione
 naturale del corpo e della mente.
 
 

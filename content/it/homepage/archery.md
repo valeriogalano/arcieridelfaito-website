@@ -4,7 +4,7 @@ weight: 3
 ---
 
 Il tiro con l'arco istintivo è una disciplina che combina una serie di tecniche e filosofie volte a sviluppare la
-precisione e la concentrazione del tiratore attraverso l'istinto e l'intuizione piuttosto che il calcolo preciso e la
+precisione e la concentrazione dell'arciere attraverso l'istinto e l'intuizione piuttosto che il calcolo preciso e la
 mira metodica.
 
 Le origini del tiro con l'arco risalgono a migliaia di anni fa. Da armi di caccia e di guerra, gli archi sono diventati

@@ -3,11 +3,11 @@ title: "Tecnica e pratica"
 weight: 7
 ---
 
-Nel tiro con l'arco istintivo, il tiratore non utilizza mirini o dispositivi di puntamento. Invece, si affida alla
+Nel tiro con l'arco istintivo, l'arciere non utilizza mirini o dispositivi di puntamento. Invece, si affida alla
 memoria muscolare e alla percezione intuitiva della distanza e della traiettoria. Questo richiede una pratica costante e
 un profondo senso di consapevolezza del proprio corpo e dell'ambiente circostante.
 
-Durante l'allenamento, il tiratore sviluppa la capacità di "sentire" la posizione corretta e il momento giusto per
+Durante l'allenamento, l'arciere sviluppa la capacità di "sentire" la posizione corretta e il momento giusto per
 scoccare la freccia. Questo processo di apprendimento è molto personale e varia da individuo a individuo. Alcuni
 praticanti trovano utile concentrarsi sul bersaglio, mentre altri sulla tecnica di rilascio o sulla postura.
 
