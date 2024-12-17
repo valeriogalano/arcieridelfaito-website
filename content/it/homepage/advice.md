@@ -10,13 +10,13 @@ detailed_page_homepage_content: true
 Ti ricordiamo che nella faggeta siamo a circa 1200 metri di altezza, immersi in un bosco, quindi le condizioni
 meteorologiche e la temperatura vanno tenute bene in considerazione.
 
-# Consigli per Primavera/Estate
+### Consigli per Primavera/Estate
 
 * Indossa scarpe adatte per camminare nel bosco (scarpe da montagna o da trekking).
 * Porta sempre dell'acqua da bere e uno spuntino.
 * Preparati a eventuali cambiamenti del tempo, con una giacca impermeabile leggera.
 
-# Consigli per Autunno/Inverno
+### Consigli per Autunno/Inverno
 
 * Vestirti con abbigliamento caldo e comodo.
 * Porta sempre una maglia in più.
@@ -24,7 +24,7 @@ meteorologiche e la temperatura vanno tenute bene in considerazione.
 * Preparati a pioggia o neve con una giacca impermeabile e magari guanti e cappello.
 * Porta sempre qualcosa di caldo, come un thermos con tè.
 
-# Consigli generali
+### Consigli generali
 
 * Informarti sulle condizioni meteorologiche prima di partire.
 * Rispetta la natura e non lasciare rifiuti in giro.
