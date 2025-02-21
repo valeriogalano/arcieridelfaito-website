@@ -52,7 +52,7 @@ enableEmoji = true
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "Contribuisci al miglioramento di questo sito su <a href='https://github.com/valeriogalano/arcieridelfaito-website'>GitHub</a>"
+    copyright = "<a href=\"/docs/MOG ASD Arcieri del Faito.pdf\">MOG</a> | <a href=\"/docs/Nomina Safeguarding.pdf\">Safeguarding</a> | Contribuisci al miglioramento di questo sito su <a href='https://github.com/valeriogalano/arcieridelfaito-website'>GitHub</a>"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
