@@ -29,7 +29,4 @@ meteorologiche e la temperatura vanno tenute bene in considerazione.
 * Informarti sulle condizioni meteorologiche prima di partire.
 * Rispetta la natura e non lasciare rifiuti in giro.
 
-Ti segnaliamo inoltre che in alcuni periodi dell'anno è possibile raggiungere la faggeta con la funivia. Questo potrebbe
-rendere l'esperienza ancora più piacevole e comoda.
-
 Seguendo questi consigli, potrai goderti la tua avventura nella natura in completa serenità.
